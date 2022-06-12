@@ -1,0 +1,10 @@
+check xem git được cài đặt chưa: git --version
+cài đặt đường dẫn: cd "đường dẫn"
+clone code về máy:
+lệnh: git clone "đường link copy từ git hub"
+
+push code lên git:
+lệnh add: git add .
+kiểm tra status: git status
+git commit -m "comment"
+đẩy code lên git: git push
